@@ -1,0 +1,9 @@
+.design{
+    width: 80%;
+}
+.LibraryForm{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 150px;
+}
